@@ -1,0 +1,76 @@
+        .header {
+            width: 100%;
+            position: fixed;
+            z-index: 5;
+        }
+        
+        .h2 {
+            text-align: center;
+        }
+        
+        .footer {
+            width: 100%;
+            height: 400px;
+            padding-top: 100px;
+        }
+        
+        .conte {
+            display: inline-block;
+        }
+        
+        .cont-blog {
+            width: 100%;
+            height: 700px;
+        }
+        
+        .info-logo {
+            width: 200px;
+            height: 200px;
+            float: left;
+            text-align: center;
+        }
+        
+        .redes {
+            float: right;
+        }
+        
+        .blog-car {
+            text-align: center;
+        }
+        
+        .pie-linea {
+            text-align: center;
+            width: 100%;
+            height: 100px;
+            padding-top: 40px;
+            background-color: white;
+            color: black;
+            bottom: 0;
+        }
+        
+        .texto:hover {
+            -webkit-box-shadow: -1px 9px 40px 12px rgba(0, 0, 0, 0.75);
+            -moz-box-shadow: -1px 9px 40px 12pxrgba(0, 0, 0, 0.75);
+            box-shadow: -1px 9px 40px 12pxrgba rgba(0, 0, 0, 0.75);
+        }
+        
+        .inner {
+            overflow: hidden;
+        }
+        
+        .inner img {
+            transition: all 1.5s ease;
+        }
+        
+        .inner:hover img {
+            transform: scale(1.5);
+        }
+        
+        .footer {
+            width: 100%;
+            height: 500px;
+        }
+        
+        a {
+            text-decoration: none;
+        }
